@@ -1,0 +1,54 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Name			PatientID		GROUP		Test 1			Test 2			Test 3			ACTION				ROOM QUARANTINE
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Venus Tan		1-AEO			AEO		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Vivian Yong		4-ATO			ATO		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Intensive Care Unit (ICU)
+Pang Siew Ai		15-AEO			AEO		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Ali Muhammad		6-SID			SID		T1: Negative		T2: Negative		T3: Positive		Quarantine in Hospital		Intensive Care Unit (ICU)
+Mikhail Mat		17-ACC			ACC		T1: Negative		T2: Negative		T3: Positive		Quarantine in Hospital		Normal Ward (NW)
+Benjamin Wan		46-ACC			ACC		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Intensive Care Unit (ICU)
+Eason Pang		44-AEO			AEO		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Intensive Care Unit (ICU)
+Tang Yun Ting		43-AHS			AHS		T1: Negative		T2: Negative		T3: Negative		Continue Working
+Yap Han Ming		28-SID			SID		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Ammar Ahmad		9-ACC			ACC		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Alexander Lanka		41-SID			SID		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Pang Ji Meng		31-ACC			ACC		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Intensive Care Unit (ICU)
+Kris Ebben		18-SID			SID		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Fan Lim Gui		16-ATO			ATO		T1: Negative		T2: Negative		T3: Positive		Quarantine in Hospital		Normal Ward (NW)
+Ho Wei Lun		27-SID			SID		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Charlotte Iyer		47-SID			SID		T1: Negative		T2: Negative		T3: Positive		Quarantine in Hospital		Intensive Care Unit (ICU)
+Man OiRen		19-SID			SID		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Chloe Tang		3-ATO			ATO		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Intensive Care Unit (ICU)
+Herry Easley		2-AHS			AHS		T1: Positive		XFollow-up test		XFollow-up test		HOME QUARANTINE			Normal Ward (NW)
+Cindy Addullah		8-ATO			ATO		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Jarden Muhammad		33-ACC			ACC		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Zoe Tabacknick		30-AHS			AHS		T1: Negative		T2: Negative		T3: Positive		Home Quarantine			Normal Ward (NW)
+Peter Pang		5-SID			SID		T1: Negative		T2: Negative		T3: X Tested		Home Quarantine
+Andrea Low		7-ACC			ACC		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Fong Qin Fang		40-SID			SID		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Hazel Ming		49-ACC			ACC		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Ooi An Yi		36-AHS			AHS		T1: Negative		T2: Negative		T3: Positive		Home Quarantine		Intensive Care Unit (ICU)
+Candy Easley		35-SID			SID		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Emma Tengku		45-SID			SID		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Katie Hershey		32-AEO			AEO		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Siti Muhammad		12-SID			SID		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Mackenzie Iyer		38-AHS			AHS		T1: Negative		T2: Positive		XFollow-up test		Home Quarantine		Intensive Care Unit (ICU)
+Kong Dan Nan		50-SID			SID		T1: Negative		T2: Negative		T3: Positive		Quarantine in Hospital		Normal Ward (NW)
+Ava Bhardwaj		42-ATO			ATO		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Wong Low Pang		34-ATO			ATO		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Kim Jun Hong		29-SID			SID		T1: Negative		T2: Negative		T3: Positive		Quarantine in Hospital		Normal Ward (NW)
+Mandy Wen		22-ACC			ACC		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Lan Qin Tang		25-AEO			AEO		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Hilmi Muhammad		20-ATO			ATO		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Max Merican		39-AHS			AHS		T1: Negative		T2: Negative		T3: Positive		Home Quarantine		Intensive Care Unit (ICU)
+Tan Ying Ji		10-AEO			AEO		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Lily Taflinger		23-ATO			ATO		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Ooi Mei Wen		21-AEO			AEO		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Ken Tabacknick		24-ATO			ATO		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Goh Pai Long		48-AHS			AHS		T1: Negative		T2: Positive		XFollow-up test		Home Quarantine		Intensive Care Unit (ICU)
+Lim Kai Yong		11-AEO			AEO		T1: Negative		T2: Negative		T3: Positive		Quarantine in Hospital		Intensive Care Unit (ICU)
+Hailey Batta		37-ACC			ACC		T1: Negative		T2: Negative		T3: Positive		Quarantine in Hospital		Normal Ward (NW)
+Kartika Hegde		26-ATO			ATO		T1: Negative		T2: Negative		T3: Negative		Allow to reunion with family
+Amina Mat		14-SID			SID		T1: Positive		XFollow-up test		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
+Hisham Awang		13-AHS			AHS		T1: Negative		T2: Negative		T3: Negative		Continue Working
+Wang Jing Yi		51-SID			SID		T1: Negative		T2: Positive		XFollow-up test		Quarantine in Hospital		Normal Ward (NW)
